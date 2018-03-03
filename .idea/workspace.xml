@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="13a882a4-963a-4374-9e1b-464572b21ac7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mmall.properties" afterPath="$PROJECT_DIR$/src/main/resources/mmall.properties" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mmall.properties" afterPath="$PROJECT_DIR$/target/classes/mmall.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -116,7 +116,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mmall.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mmall.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/mmall.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -126,18 +126,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CartMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/CartMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="109" column="21" lean-forward="true" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
-              <folding>
-                <marker date="1517982463176" expanded="true" signature="1083:1189" ph="select from mmall_cart" />
-                <marker date="1517982463176" expanded="true" signature="1276:1336" ph="delete from mmall_cart... " />
-                <marker date="1517982463176" expanded="true" signature="1413:1701" ph="insert into mmall_cart... " />
-                <marker date="1517982463176" expanded="true" signature="3048:3694" ph="update mmall_cart... " />
-                <marker date="1517982463176" expanded="true" signature="3783:4106" ph="update mmall_cart... " />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -259,8 +256,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="596" />
-    <option name="y" value="16" />
+    <option name="x" value="590" />
     <option name="width" value="1504" />
     <option name="height" value="1047" />
   </component>
@@ -427,15 +423,6 @@
               <item name="mmall" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
               <item name="portal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mmall" type="b2602c69:ProjectViewProjectNode" />
@@ -774,7 +761,7 @@
       <workItem from="1519269653423" duration="1706000" />
       <workItem from="1519530248435" duration="4626000" />
       <workItem from="1519921275612" duration="313000" />
-      <workItem from="1519924344477" duration="8143000" />
+      <workItem from="1519924344477" duration="8275000" />
     </task>
     <task id="LOCAL-00001" summary="This is a new project by spring">
       <created>1517916630070</created>
@@ -860,11 +847,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520093283341</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="learn day1012">
+      <created>1520094123104</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1520094123104</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120972000" />
+    <option name="totallyTimeSpent" value="121104000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -876,7 +870,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="596" y="16" width="1504" height="1047" extended-state="0" />
+    <frame x="590" y="0" width="1504" height="1047" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -898,7 +892,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32178771" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3340858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2825485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2825485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -925,7 +919,8 @@
     <MESSAGE value="learn day3" />
     <MESSAGE value="learn day4" />
     <MESSAGE value="learn day10" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn day10" />
+    <MESSAGE value="learn day1012" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn day1012" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -934,28 +929,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4500">
-          <caret line="150" column="25" lean-forward="false" selection-start-line="150" selection-start-column="25" selection-end-line="150" selection-end-column="25" />
-          <folding>
-            <marker date="1518423123785" expanded="true" signature="1323:1428" ph="select from mmall_user" />
-            <marker date="1518423123785" expanded="true" signature="1515:1575" ph="delete from mmall_user... " />
-            <marker date="1518423123785" expanded="true" signature="1652:2047" ph="insert into mmall_user... " />
-            <marker date="1518423123785" expanded="true" signature="3808:4713" ph="update mmall_user... " />
-            <marker date="1518423123785" expanded="true" signature="4802:5244" ph="update mmall_user... " />
-            <marker date="1518423123785" expanded="true" signature="5332:5394" ph="select count... mmall_user" />
-            <marker date="1518423123785" expanded="true" signature="5486:5614" ph="SELECT from mmall_user" />
-            <marker date="1518423123785" expanded="true" signature="5699:5755" ph="select count... mmall_user" />
-            <marker date="1518423123785" expanded="true" signature="5857:5907" ph="select quest... " />
-            <marker date="1518423123785" expanded="true" signature="5990:6114" ph="SELECT count... mmall_user" />
-            <marker date="1518423123785" expanded="true" signature="6210:6309" ph="update mmall_user... " />
-            <marker date="1518423123785" expanded="true" signature="6400:6507" ph="SELECT count... mmall_user" />
-            <marker date="1518423123785" expanded="true" signature="6605:6684" ph="select count... mmall_user" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1374,6 +1347,17 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
